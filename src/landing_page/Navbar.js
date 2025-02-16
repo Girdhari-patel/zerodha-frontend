@@ -33,7 +33,7 @@ function Navbar() {
           <form class="d-flex" role="search">
             <ul class="navbar-nav mb-lg-0">
             <li class="nav-item">
-               <a className="nav-link active fs-4" href="http://localhost:3000/">Dashboard</a>
+               <a className="nav-link active fs-4" href="https://zrdha-dashboard.vercel.app/">Dashboard</a>
               </li>
               <li class="nav-item">
                 <Link class="nav-link active fs-4" aria-current="page" to = {"/signup"}>
